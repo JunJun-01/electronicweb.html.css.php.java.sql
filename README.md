@@ -11,11 +11,14 @@ As Malaysia is developing more and more technology to ease the people’s proble
 Project Solution
 As Malaysia is transforming the way e-commerce is conducted in the country, this project is to build a functional system for the customers to purchase products online of the Electronic Device Store. While this project can ease the staffs’ burden daily, the desired result of the project is also to ensure the customer can prefer buying the store’s products online rather than using phone calls and emails. Using the system, customer can also explore catalogues and pick their interested products to purchase using online payment options. When this solution is achieved, the outcome and quality of the store products sales can be more effective and efficient by the staffs. Moreover, the customer can track their shipping information online with the shipping code given. Thus, it saves the time of both parties.
 
+Project Design
+
 ![image](https://user-images.githubusercontent.com/74132232/195016441-550dff19-1654-46f6-b512-b858139d43a2.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016455-13cff2cd-8d2a-4815-82d7-95cf6da213cc.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016532-962e8a7e-f10d-4ae3-8dc7-fc4495b677bd.png)
 
-Project Design
+Project Actual Web System
+
 ![image](https://user-images.githubusercontent.com/74132232/195016598-6beef577-f7b0-4473-b277-75ff96b61e62.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016621-f183aaff-0ab9-4174-8e7f-a0d129efdc04.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016665-595b21e0-9f4a-4312-8023-d14aba20e069.png)
@@ -32,6 +35,7 @@ Project Design
 ![image](https://user-images.githubusercontent.com/74132232/195016891-a792fa50-a4a6-43bb-80ae-b538d47ce547.png)
 
 Admin Dashboard
+
 ![image](https://user-images.githubusercontent.com/74132232/195016924-1feaf536-795b-49f9-adb4-1efbb33fe54b.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016934-b8d80cbf-bd71-4855-904a-2d3ff1aa0f7d.png)
 ![image](https://user-images.githubusercontent.com/74132232/195016949-d6e60dbc-9882-4a8a-9e52-0da2a4d27add.png)
